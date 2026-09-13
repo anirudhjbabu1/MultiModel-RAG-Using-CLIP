@@ -10,6 +10,8 @@ The tech stack includes
 - Torch
 - Numpy
 - Langchain
+- OpenAI
+- CLIP
 
 The pipeline is 
 
